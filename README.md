@@ -1,1 +1,1 @@
-# Analysis based on the gentle conceccion data by ACLED: https://acleddata.com/
+# Analysis based on dataset kindly provided by ACLED: https://acleddata.com/
